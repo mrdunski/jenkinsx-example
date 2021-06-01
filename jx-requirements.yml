@@ -20,7 +20,7 @@ spec:
   - key: staging
   - key: production
   ingress:
-    domain: ""
+    domain: "workshops.kende.pl"
     externalDNS: false
     namespaceSubDomain: -jx.
     tls:
